@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: 如何正确地练习写
+title: 如何正确地练习
 date: 2015-3-02
 categories: blog
 tags: [java,Android]
