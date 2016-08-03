@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 如何正确地练习
-date: 2015-3-02
+title: Java虚拟机的类加载机制（一）
+date: 2015-8-04
 categories: blog
-tags: [java,Android]
+tags: [Java,类加载,深入理解Java虚拟机]
 description: 通告一下，我已不再每天写千字文，准备采用以下的方法进行练习，由于文章篇幅较长，链接较多，建议到简书或博客进行阅读。
 ---
 
